@@ -9,3 +9,13 @@ with open(election_data) as csvfile:
     csv.header = next(csvreader)
 
     print(f"CSV Header: {csv.header}")
+
+
+output_file = os.path.join('..', 'PyPoll', 'Analysis',"PyPoll_Results.txt")
+
+#  Open the output file
+with open(output_file, "w") as datafile:
+    writer = csv.writer(datafile)
+
+    # test write
+    writer.writerow("test")
