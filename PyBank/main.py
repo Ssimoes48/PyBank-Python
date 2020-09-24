@@ -15,4 +15,4 @@ num_rows = -1
 for row in open(budget_data):
     num_rows += 1
 
-print(num_rows)
+print("Total Months: ", + num_rows)
