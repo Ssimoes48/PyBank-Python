@@ -9,3 +9,10 @@ with open(budget_data) as csvfile:
     csv.header = next(csvreader)
 
     print(f"CSV Header: {csv.header}")
+
+num_rows = -1
+
+for row in open(budget_data):
+    num_rows += 1
+
+print(num_rows)
