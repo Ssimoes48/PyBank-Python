@@ -1,6 +1,6 @@
 # Python-Challenge: PyBank &amp; PyPoll
 
-**About the Challenge: PyBank** 
+## About the Challenge: PyBank 
 
 In this project I have analyzed financial records from a company. The Data consists of "Monthly Profits & Losses". Using Python Code, I have read the data to determine the Total Revenue of the company over 7year time period. I have calculated the average change in Profits& Losses. Also, I have determined the month and year with the greatest increase to profits and the month and year with the greatest decrease.
 
@@ -14,7 +14,7 @@ I combined my results as a ‘string’ variable so that I was easily able to pr
 
 _______________________________________________________________________________________________________________________________________________
 
-**About the Challenge: PyPoll**
+## About the Challenge: PyPoll**
 
 In this project I have analyzed election data for a small rural town to help them determine the winner of their election. This is a truly relevant coding project with the upcoming election this November. Using Python I was able to evaluate the total number of votes cast in the election, the total number of votes cast for each candidate, and the percentage of the votes that each candidate received. 
 
