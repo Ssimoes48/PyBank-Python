@@ -23,7 +23,7 @@ with open(budget_data) as csvfile:
       net_profit += int(row[1])
 
 #Calulate the change in value from month to month
-# if/else loop      
+# if/else in for loop      
       if total_months == 1:
          prev_month = int(row[1])
       else:
