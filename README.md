@@ -5,5 +5,4 @@
 ###     Results
 
 
-
 ## About the Challenge: PyPoll
