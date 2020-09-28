@@ -7,9 +7,9 @@ Results
 ![PyBank Results](PyBank/Analysis/PyBankResults.png)
 
 
-<<<<<<< HEAD
-## About the Challenge: PyPoll
-=======
 
 About the Challenge: PyPoll
->>>>>>> a3bf8fd9d75b607796cd63ce8b39fe3a11eac8ff
+
+
+Results
+![PyPoll Results](PyPoll/Analysis/PyPollResults.png)
