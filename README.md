@@ -3,13 +3,15 @@
 About the Challenge: PyBank 
     In this project I have analyized finacial records from a company. The Data consists of "Monthy Profits & Losses". Using Python Code, I have read the data to determin the Total Revenue of the comapny over 7 year time period. I have calculated the average change in Profits& Losses. Also, I have determined the month and year with the greates increase to profits and the month and year with the greatest decrease. 
     
-Results
+**Results**
+
 ![PyBank Results](PyBank/Analysis/PyBankResults.png)
 
 
 
-About the Challenge: PyPoll
+**About the Challenge: PyPoll**
 
 
-Results
+**Results**
+
 ![PyPoll Results](PyPoll/Analysis/PyPollResults.png)
